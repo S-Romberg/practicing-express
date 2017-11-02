@@ -1,0 +1,24 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sydney96/practicing-express.git"
+  },
+  "author": "Sydney Romberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sydney96/practicing-express/issues"
+  },
+  "homepage": "https://github.com/Sydney96/practicing-express#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.13.0",
+    "pg": "^7.3.0"
+  }
+}
